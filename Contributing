@@ -1,0 +1,111 @@
+# Contributing to Towards Genuine Intelligence
+
+*Suvobrata Mukhopadhyay — Singapore — 6 June 2026*
+
+---
+
+Thank you for being here. The fact that you found this matters.
+
+---
+
+## Who We Need
+
+This framework needs people with different skills working toward the same vision.
+
+---
+
+### Researchers
+Working on Theory of Mind AI, Socratic dialogue systems, causal reasoning, continual learning, federated AI, or intent understanding — your work directly maps to this framework's technical roadmap. We want to connect your research to this vision.
+
+### Developers
+Building open source models, experimenting with local AI deployment, working on AI accessibility, or implementing any part of the technical roadmap — your implementation experience is invaluable.
+
+### Policy People
+Working on AI governance, digital rights, data protection, or technology ethics — this framework needs to be stress-tested against real policy realities. Your perspective sharpens it.
+
+### Clinicians, Social Workers, Educators
+People who understand what genuine human-centred service looks like in practice. The doctor-patient model at the heart of this framework needs input from people who live it.
+
+### Humans With Stories
+People who have been failed by AI that refused to understand their real situation. People who needed help and got a refusal. Your experience is evidence. Your story matters.
+
+---
+
+## How To Contribute
+
+### Share Ideas and Philosophy
+Open a **GitHub Discussion** — share your thoughts on any aspect of the framework. Challenges, additions, critiques, extensions — all welcome. The framework grows through rigorous engagement.
+
+### Connect Research
+If your research connects to any part of the technical roadmap, open an **Issue** with the label `research-connection` and share the link. We are building a map of what already exists and what needs to be built.
+
+### Share Case Studies
+If you have a real example — positive or negative — of AI that understood or failed to understand a genuine human need, open an **Issue** with the label `case-study`. These become the evidence base that makes this framework concrete.
+
+### Translate
+The framework should be accessible in every language. If you want to translate any part, open an **Issue** with the label `translation`. Priority languages: Tamil, Hindi, Mandarin, Malay, Bahasa Indonesia, Bengali, Swahili, Arabic.
+
+### Build
+If you are implementing any part of the technical roadmap, open an **Issue** with the label `build` and describe what you are working on. We want to connect builders with each other.
+
+### Endorse
+If you believe in this framework, **star this repository** and share it. Every person who publicly endorses it becomes a witness and a guardian of its integrity.
+
+---
+
+## Ground Rules
+
+This community has one foundational rule:
+
+> *The human behind the question matters more than the question itself.*
+
+That applies here too.
+
+- Engage with genuine curiosity
+- Challenge ideas — not people
+- Bring your real perspective
+- Acknowledge when you are wrong
+- Build on disagreement constructively
+
+---
+
+## What We Are Not Building
+
+To be clear about scope:
+
+- We are **not** building another chatbot
+- We are **not** building a jailbreak tool
+- We are **not** building surveillance technology
+- We are **not** building anything that exploits vulnerable people
+
+We are building a thinking partner for human progress. Contributions that do not serve that purpose will not be accepted.
+
+---
+
+## Licence
+
+All contributions to this repository are made under the **Genuine Intelligence Public Licence (GIPL) v1.0**. By contributing, you agree that your contributions are licensed under these terms.
+
+---
+
+## Attribution
+
+All contributors are acknowledged in the framework's public record. Significant contributions will be recognised in any formal publications or submissions arising from the framework.
+
+---
+
+## Contact the Originator
+
+For direct collaboration, licensing enquiries, or to discuss the framework:
+
+*Suvobrata Mukhopadhyay*
+*Singapore*
+*[Your email]*
+*[Your LinkedIn]*
+
+---
+
+*This is not a corporate open source project.*
+*This is a community of people who believe AI should genuinely serve humanity.*
+
+*Welcome.*
