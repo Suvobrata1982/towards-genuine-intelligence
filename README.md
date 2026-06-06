@@ -130,8 +130,7 @@ Copyright © 2026 Suvobrata Mukhopadhyay. All rights reserved under GIPL v1.0.
 For collaboration, licensing, research enquiries, or to endorse this framework:
 
 *Singapore*
-*[Your email]*
-*[Your LinkedIn]*
+*[sam.mukherjee82@gmail.com]*
 
 ---
 
